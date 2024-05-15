@@ -1,0 +1,57 @@
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body,
+html {
+    width: 100%;
+    height: 100%;
+    font-family: "Bebas Neue", sans-serif;
+    background: url(https://images.unsplash.com/photo-1537498425277-c283d32ef9db?q=80&w=2678&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D); 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    font-size: 100px;
+}
+
+.btn {
+    font-weight: 300;
+    border-radius: 300px;
+}
+
+hr {
+    margin: 20px auto;
+    color: #F05F44;
+    border: 3px solid #F05F44;
+    max-width: 65px;
+    opacity: 1;  
+}
+
+.btn-xl {
+    padding: 1em 2em;
+}
+
+.btn-primary {
+    background-color: #F05F44;
+    border-color: #F05F44;
+    --bs-btn-hover-bg: #ee4b08;	
+    --bs-btn-hover-border-color: #ee4b08;
+}
+
+.btn-primary:hover {
+    background-color: #F05F44;
+    border-color: #F05F44;
+    border-width: 4px;
+}
+
+.buffer {
+    height: 3rem;
+}
+
