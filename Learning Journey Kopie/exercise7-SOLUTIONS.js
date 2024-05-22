@@ -2,7 +2,7 @@
 
 // 1. Create an object that has properties "username" and "password". Fill those values in with strings.
 {
-	username: "andrei",
+	username: "andrei"
 	password: "supersecret"
 }
 
